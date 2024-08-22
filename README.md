@@ -126,9 +126,11 @@ The system takes in the chat history and the question, then responds to the ques
 [streamlit-app-2024-07-22-15-07-13.webm](https://github.com/user-attachments/assets/63b832e9-8d93-4571-b581-2356a19768d2)
 
 ## Author
-[ThiNguyen]
-[MaiThaoLy]
-[HungTran]
+ThiNguyen
+
+MaiThaoLy
+
+HungTran
 ## Feedback
 
 If you have any feedback, please reach out to us at nguyenthihongthi.230502@gmail.com
